@@ -21,5 +21,5 @@
 import Route from '@ioc:Adonis/Core/Route'
 
 Route.get('/', async () => {
-  return { hello: 'world pakistan' }
+  return { hello: 'welcome to result management system' }
 })
