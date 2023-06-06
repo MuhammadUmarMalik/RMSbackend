@@ -21,7 +21,7 @@
 import Route from '@ioc:Adonis/Core/Route'
 
 Route.get('/', async () => {
-  return { hello: 'welcome to result management system!! ??' }
+  return { hello: 'welcome to result management system!!' }
 })
 
 Route.get('/user', async () => {
